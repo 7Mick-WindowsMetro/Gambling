@@ -244,12 +244,12 @@ def main():
         if cmd.lower() == 'p':
             
             ret = play()
-            money=info[2]
-            level=int(info[1])
+            info[2]=money
+            info[1]=level
             while ret == 0 or ret == 3:
                 ret = play()
-                money=info[2]
-                level=int(info[1])
+                info[2]=money
+                info[1]=level
         elif cmd.lower() == 'h':
             os.system("cls")
             show_doc()
