@@ -1,7 +1,7 @@
 # -*- coding : UTF-8 -*-
 # Gambling
 # Language: Simplified Chinese
-# Version: v0.2
+# Version: v0.3
 # Copyright Hangzhou Sevensoft Technology 2021 All rights reserved.
 
 # Please take care of my hair! And welcome to my GitHub:
